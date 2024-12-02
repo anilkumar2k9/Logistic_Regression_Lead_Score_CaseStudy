@@ -14,12 +14,12 @@ writing emails, etc. Through this process, some of the leads get converted while
 
 ## Approach taken:
 
-https://github.com/anikch/Lead-Scoring-Case-Study/blob/main/Summary%20Report%20-%20Lead%20Scoring%20Case%20Study.pdf
+https://github.com/anilkumar2k9/Logistic_Regression_Lead_Score_CaseStudy/blob/main/Lead%20Scoring%20Case%20Study.pdf
 
 ## Analysis, Model Building, Conclusion and Reccomendation:
 
-https://github.com/anikch/Lead-Scoring-Case-Study/blob/main/Lead%20Scoring%20Case%20Study.pdf
+https://github.com/anilkumar2k9/Logistic_Regression_Lead_Score_CaseStudy/blob/main/Summary%20Report%20-%20Lead%20Scoring%20Case%20Study.pdf
 
 ## Jupyter Notebook:
 
-https://github.com/anikch/Lead-Scoring-Case-Study/blob/main/Lead%20Scoring%20Case%20Study.ipynb
+https://github.com/anilkumar2k9/Logistic_Regression_Lead_Score_CaseStudy/blob/main/Lead%20Scoring%20Case%20Study.ipynb
